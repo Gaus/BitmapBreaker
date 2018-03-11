@@ -1,0 +1,9 @@
+D:\Alexey\Projects\BitmapBreaker\BitmapBreaker\bin\Debug\BitmapBreaker.exe.config
+D:\Alexey\Projects\BitmapBreaker\BitmapBreaker\bin\Debug\BitmapBreaker.exe
+D:\Alexey\Projects\BitmapBreaker\BitmapBreaker\bin\Debug\BitmapBreaker.pdb
+D:\Alexey\Projects\BitmapBreaker\BitmapBreaker\obj\Debug\BitmapBreaker.Form1.resources
+D:\Alexey\Projects\BitmapBreaker\BitmapBreaker\obj\Debug\BitmapBreaker.Properties.Resources.resources
+D:\Alexey\Projects\BitmapBreaker\BitmapBreaker\obj\Debug\BitmapBreaker.csproj.GenerateResource.Cache
+D:\Alexey\Projects\BitmapBreaker\BitmapBreaker\obj\Debug\BitmapBreaker.exe
+D:\Alexey\Projects\BitmapBreaker\BitmapBreaker\obj\Debug\BitmapBreaker.pdb
+D:\Alexey\Projects\BitmapBreaker\BitmapBreaker\obj\Debug\BitmapBreaker.csprojResolveAssemblyReference.cache
